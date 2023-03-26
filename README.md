@@ -1,3 +1,3 @@
 # MVVMCalculator
 
-in this example you will see the implementation of mvvm and databinding in a simple calculator .
+In this example you will see the implementation of MVVM and Databinding in a simple calculator .
